@@ -6,6 +6,8 @@ https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table
 
 This was completed using sklearn.
 
+My best submission achieved an accuracy of 81.76% on the test set.
+
 ## Files
 
 ### part1.py
